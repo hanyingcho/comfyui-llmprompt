@@ -1,0 +1,14 @@
+[project]
+name = "llmprompt"
+description = "NODES: Load llm, Generate Text with LLM, Inference Qwen2VL, Inference Qwen2"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/hanyingcho/comfyui-llmprompt"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-llmprompt"
+Icon = ""
